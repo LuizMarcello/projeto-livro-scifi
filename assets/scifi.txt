@@ -1,0 +1,6 @@
+Usar rebase: quando você seleciona a opção Rebase, suas alterações atuais são aplicadas sobre
+ os conflitos na ramificação de destino. Depois de escolher Rebase e clicar em OK, abra o painel 
+ do Git para exibir os arquivos que ainda precisam ser confirmados. Você pode então anular ou
+  reiniciar a operação de rebase. Quando você anula a operação, a ação de rebase é interrompida
+   e a ramificação de destino não sofre alterações. Quando você a reinicia, suas alterações são 
+   ignoradas em favor dos conflitos encontrados na ramificação de destino.
